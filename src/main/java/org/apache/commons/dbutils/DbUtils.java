@@ -41,7 +41,7 @@ public final class DbUtils {
      * Default constructor.
      *
      * Utility classes should not have a public or default constructor,
-     * but this one preserves retro-compatibility.
+     * but this one preserves retro-compatibility/???.
      *
      * @since 1.4
      */
