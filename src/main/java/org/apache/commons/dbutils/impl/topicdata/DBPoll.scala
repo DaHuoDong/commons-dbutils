@@ -32,7 +32,7 @@ object DBPoll {
     val driverName: String = s"org.apache.hive.jdbc.HiveDriver"
     val url: String = s"jdbc:hive2://$host:$port/default"
     val ds = initDS(url, userName, password, driverName, 10, 20, 0, 60000)
-    ds.
+    //ds.
     ds
   }
 }
